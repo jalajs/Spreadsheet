@@ -1,0 +1,28 @@
+%ColCycTest
+A3 =(SUM A:A)
+C5 =(PRODUCT B:D)
+A5 3
+B7 5
+D10 4
+B9 5
+A11 4
+C17 2
+A17 3
+A21
+A23 4
+A26
+E1
+%Sheet1
+A2 4.0
+A7 10.0
+C10 5.0
+C13 5.0
+B12 4.0
+A15 5.0
+D19 4.0
+A19 5.0
+K1 =(PRODUCT A:A)
+K2 "Just A"
+H1 =(SUM A:E)
+H2 "A to E"
+E3 3.0

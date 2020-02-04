@@ -1,0 +1,12 @@
+B1 "hello my name is ben"
+A1 3.0
+B2 =(PRODUCT A1 5.0)
+A2 =(SUM 4.0 2.0 Y5)
+A3 9.0
+F8 =(SUM 5.0 1.0)
+Y5 6.0
+A13 =(PRODUCT A1:A4)
+E1 E3
+E2 E1
+D2 true
+E3 E2

@@ -1,0 +1,6 @@
+B1 =(STRCAT "hi" "OOD" B2)
+C2 PRODUCT(dshf)
+A1 A2
+B2 A1
+A2 A1
+C1 =(< C1 5.0)

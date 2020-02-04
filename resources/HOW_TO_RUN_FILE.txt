@@ -1,0 +1,9 @@
+1. Open terminal/command prompt
+
+2. Navigate into the \resources directory
+
+3. Type in "java -jar Assignment7.jar -edit" (without the quotes)
+
+4. Add any other commands you wish after the -edit
+
+5. Have fun!

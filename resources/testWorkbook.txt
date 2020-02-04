@@ -1,0 +1,14 @@
+%Sheet2
+A4 A2
+A2 5
+A3 9
+A10 =(SUM A2 FooSheet!B9)
+
+%FooSheet
+B9 =(SUM 4 6)
+G4 745
+
+%OODSheet
+J9 "hey"
+K1 943
+D4 FooSheet!G4
